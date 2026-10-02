@@ -1,4 +1,5 @@
 # 🥗 MacroSnap
+Live macrosnap : https://macrosnap-fj7gfkvoyq6scnhwlczbnu.streamlit.app/
 
 ### AI-Powered Meal & Nutrition Tracker
 
